@@ -652,41 +652,43 @@ section {
 
 /* ── TESTIMONIALS ── */
 .testimonial-block {
-  padding: 4rem 3rem;
-  background: var(--bg-2);
-  border-top: 1px solid var(--border);
-  border-bottom: 1px solid var(--border);
+  padding: 5rem 3rem;
 }
 
 .testimonial-inner {
-  max-width: 760px;
+  max-width: 1200px;
   margin: 0 auto;
 }
 
 .testimonial-quote {
-  font-size: 1.05rem;
-  font-weight: 300;
-  color: var(--text);
-  line-height: 1.8;
-  margin-bottom: 1.25rem;
+  font-family: var(--serif);
+  font-size: 1.3rem;
+  font-style: italic;
+  color: var(--text-muted);
+  line-height: 1.55;
+  max-width: 640px;
+  padding-left: 1.5rem;
+  border-left: 2px solid var(--accent);
+  margin: 0 0 1.5rem;
 }
 
 .testimonial-attr {
-  display: flex;
-  flex-direction: column;
-  gap: 0.2rem;
+  padding-left: 1.5rem;
 }
 
 .testimonial-name {
   font-family: var(--sans);
-  font-size: 0.88rem;
-  font-weight: 700;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
   color: var(--text);
+  margin-bottom: 0.15rem;
 }
 
 .testimonial-title {
+  font-family: var(--body);
   font-size: 0.82rem;
-  color: var(--text-muted);
+  color: var(--text-dim);
   font-weight: 300;
 }
 
@@ -794,7 +796,7 @@ footer p {
   nav { padding: 1.2rem 1.5rem; }
   .nav-links { gap: 1.2rem; }
   section { padding: 4rem 1.5rem; }
-  .testimonial-block { padding: 3rem 1.5rem; }
+  .testimonial-block { padding: 3.5rem 1.5rem; }
   #hero { padding: 0 1.5rem; padding-top: 6rem; min-height: auto; }
   .now-grid,
   .track-intro,
@@ -817,7 +819,8 @@ footer p {
     transition: none !important;
   }
   nav { padding: 1rem 1.2rem; }
-  .testimonial-block { padding: 2.5rem 1.2rem; }
+  .testimonial-block { padding: 3rem 1.2rem; }
+  .testimonial-quote { font-size: 1.15rem; }
   .nav-links { display: none; }
   section { padding: 3.5rem 1.2rem; }
   #hero { padding: 0 1.2rem; padding-top: 5.5rem; min-height: auto; }
