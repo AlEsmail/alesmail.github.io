@@ -667,12 +667,14 @@ section {
   color: var(--text-muted);
   line-height: 1.55;
   max-width: 640px;
+  margin: 0 auto 1.5rem;
   padding-left: 1.5rem;
   border-left: 2px solid var(--accent);
-  margin: 0 0 1.5rem;
 }
 
 .testimonial-attr {
+  max-width: 640px;
+  margin: 0 auto;
   padding-left: 1.5rem;
 }
 
