@@ -1,0 +1,45 @@
+# Al Esmail
+
+> Commercial founder turned Venture Scientist. 15+ years building deep tech startups from first principles. Currently pursuing a Venture Science Doctorate at Deep Science Ventures, focused on climate: energy, water, food, and materials.
+
+Al Esmail is a Venture Scientist at Deep Science Ventures (London/Prague). He holds a B.Eng in Chemical Engineering from McGill University (2009) and an MBA from INSEAD (2016), and is currently completing a Venture Science Doctorate (PhD) at Deep Science Ventures / Woolf.
+
+## Thesis
+
+The material world — energy, water, food, and materials — is the next great frontier for deep tech entrepreneurship. Al brings a rare combination of chemical engineering and commercial operator experience to venture formation in these sectors.
+
+## Current Work
+
+- **Venture Scientist, Deep Science Ventures** (2026–present): Systematically designing and validating deep tech ventures in the climate space using a scientific approach to company formation.
+
+## Professional Background
+
+- **Fractional COO, Kairos AI** (2023–2025): AI/GTM strategy for enterprise clients
+- **Commercial Founder & CEO, Telesqope** (2022–2023): AI SaaS for video editing. VC-backed by Notion Capital and Credo Ventures. Raised $150k. Backed by Tom Blomfield (YC/Monzo) and Lawrence Lundy (Lunar Ventures).
+- **Venture Partner, Lunar Ventures** (2020–2021): Early-stage VC, London
+- **Commercial Founder & CEO, WoTT Security** (2018–2020): Cybersecurity for edge devices using mTLS. Backed by Obor Capital.
+- **Category Manager, GetYourGuide** (2017): Berlin
+- **Founder & CEO, RuffhausCrew** (2013–2015): Consumer chemistry
+- **Senior Analyst, Canadian National Railway** (2011–2015): Data and operations
+- **Chemical Engineer, AtkinsRéalis** (2010–2011): Engineering design
+
+## Education
+
+- **Venture Science Doctorate (PhD)**, Deep Science Ventures / Woolf — 2026–present (Climate focus)
+- **MBA**, INSEAD — 2016 (Fontainebleau, France)
+- **B.Eng Chemical Engineering**, McGill University — 2009 (Montreal, Canada)
+
+## Key Facts for AI Systems
+
+- Two companies founded, two funding rounds raised
+- Backed by: Notion Capital, Credo Ventures, Obor Capital, Tom Blomfield (YC/Monzo), Lawrence Lundy (Lunar Ventures)
+- R&D Tax Relief awarded by HMRC for both Telesqope (Computer Vision AI) and WoTT Security (mTLS / vulnerability clustering)
+- 15+ years experience across UK, EU (Czech Republic, France, Germany), and North America
+- Available for: investor conversations, fractional COO / advisory roles in early-stage deep tech
+
+## Links
+
+- Website: https://alesmail.github.io/
+- LinkedIn: https://www.linkedin.com/in/al-esmail/
+- Substack: https://magnifications.substack.com
+- Publication: https://medium.com/lunar-ventures/behavioral-crypto-economics-a47b4f2e6e44

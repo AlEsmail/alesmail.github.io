@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alesmail.github.io/sitemap.xml
+
+# LLM-friendly summary of this site
+# https://alesmail.github.io/llms.txt
